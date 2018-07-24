@@ -1,0 +1,10 @@
+{
+	"name": "Orbit Propagator",
+	"version": "0.0.1",
+	"author": "Kit Kennedy",
+	"description": "Orbit propagation running as a crux component",
+	"startup": "sh crux/config/up.sh",
+	"input": "crux/config/input.json",
+	"parameters": "crux/config/config.json",
+	"output": "crux/config/output.json"
+}
