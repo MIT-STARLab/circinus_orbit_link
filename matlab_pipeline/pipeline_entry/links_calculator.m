@@ -43,6 +43,7 @@ num_targets = params.num_targets;
 DTR = pi/180;
 
 % built-in comm types
+% note that these are NOT USED currently, because the code for calculating them has been removed
 comm_types_builtin = containers.Map;  % this is basically a python dict
 comm_types_builtin('Optical-general') = 0;
 comm_types_builtin('Ka-band-general') = 1;
