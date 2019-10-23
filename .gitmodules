@@ -1,3 +1,3 @@
 [submodule "circinus_tools"]
 	path = circinus_tools
-	url = git@github.mit.edu:star-lab/circinus_tools.git
+	url = git@github.com:apollokit/circinus_tools.git 
