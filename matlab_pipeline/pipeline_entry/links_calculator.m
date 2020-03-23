@@ -59,7 +59,7 @@ params_struct.assume_max_datarate = params.general_link_params.assume_max_datara
 
 %% Set up output containers
 
-t_0 = mjuliandate(start_time_dt);
+t_0 = mjuliandate(datevec(start_time_dt));
 
 %  output data struct
 rates_output = struct;
