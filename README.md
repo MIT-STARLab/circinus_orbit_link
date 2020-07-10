@@ -1,5 +1,4 @@
 # circinus_orbit_link_public
 
-Crux component that calculates data rates for orbit access periods
+The python adaptation of the previously matlab-implemented link simulation/tables. 
 
-Note this was created from https://github.mit.edu/star-lab/circinus_orbit_link_private - sensitive code was removed
